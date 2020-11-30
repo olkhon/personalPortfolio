@@ -35,3 +35,11 @@ footer {
     text-align: center;
     font-size: 1.5em;
 }
+
+
+/* grid system 2 */
+
+.grid-2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
