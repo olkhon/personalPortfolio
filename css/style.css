@@ -1,3 +1,37 @@
-.test {
-    font-size: 145px;
+/* styling header elements */
+
+.header {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 1.5em;
+    padding: 1.5em;
+}
+
+.header a {
+    color: floralwhite;
+    margin: 2em;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.header>li a:hover {
+    text-decoration: underline;
+    color: #ACBDE5;
+}
+
+.header li {
+    list-style: none;
+}
+
+
+/* styling footer elements */
+
+footer {
+    background-color: grey;
+    padding: 1.5em;
+    color: floralwhite;
+    text-align: center;
+    font-size: 1.5em;
 }
