@@ -1,0 +1,1 @@
+# My personal portfolio. It provides some Information about me, as skills, previous project experience and contact details.
